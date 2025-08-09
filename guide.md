@@ -40,7 +40,7 @@ Before installation, ensure the following:
 - You have access to a reliable internet connection
 - You must have active subscription on hotstar
 - Your operating system is compatible (see next section)
-- This modification is done by Kailas
+- This modification is done by Kailas N
 <div style="page-break-after: always;"></div>
 
 
