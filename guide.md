@@ -41,6 +41,7 @@ Before installation, ensure the following:
 - You must have active subscription on hotstar
 - Your operating system is compatible (see next section)
 - This modification is done by Kailas
+- Browser: Edge
 <div style="page-break-after: always;"></div>
 
 
